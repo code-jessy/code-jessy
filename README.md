@@ -1,4 +1,4 @@
-![Header Image](url-to-your-header-image)
+![Header Image](https://drive.google.com/file/d/1-q4xt2CXOMh9dPBbRvMw7DDQvx1KnfFh/view?usp=drivesdk )
 
 # 👋 Hi, I’m **Jessica Mensah**
 **Pronouns**: He/She
