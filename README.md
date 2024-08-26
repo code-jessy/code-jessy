@@ -1,7 +1,7 @@
 ![Header Image](https://drive.google.com/file/d/1-q4xt2CXOMh9dPBbRvMw7DDQvx1KnfFh/view?usp=drivesdk )
 
 # 👋 Hi, I’m **Jessica Mensah**
-**Pronouns**: He/She
+**Pronouns**: Her/She
 
 I’m passionate about **Marine Biology** and **Oceanography**. Currently, I'm diving into the world of **Machine Learning** and **AI** to drive innovation in coastal development. I'm eager to collaborate on tech projects and social innovations.
 
